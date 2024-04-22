@@ -1,6 +1,10 @@
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🥸Hi%20there&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20coding%20right%20now%20&descAlignY=51&descAlign=62"/>
 </p>
+<!-- <p align='center'>
+    Passionate about coding challenges, eager to tackle complex problems and transform ideas into reality!
+</p> -->
+
 <!--
 **ngeetl/ngeetl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
