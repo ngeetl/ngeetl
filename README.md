@@ -26,10 +26,10 @@
 
 ## I'm trying .. 💪🏻
 
-<div>
-<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ngeetl)](https://github.com/anuraghazra/github-readme-stats)</span>
-<span>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngeetl)](https://github.com/anuraghazra/github-readme-stats)</span>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngeetl&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff&custom_title=My&nbsp;Language&nbsp;)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngeetl&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)</div>
+
 
 
 
